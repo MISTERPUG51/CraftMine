@@ -21,9 +21,3 @@ Reset world - Page up
 
 ## Screenshots
 ![A bad house I built](https://raw.githubusercontent.com/MISTERPUG51/CraftMine/refs/heads/main/house-screenshot.png)
-
-## Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sYQEX_knDEA?si=xFlzPfM-cmFieyYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-  
-</iframe>
