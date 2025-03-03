@@ -23,4 +23,4 @@ Reset world - Page up
 ![A bad house I built](https://raw.githubusercontent.com/MISTERPUG51/CraftMine/refs/heads/main/house-screenshot.png)
 
 ## Video
-[![Alt text](https://raw.githubusercontent.com/MISTERPUG51/CraftMine/refs/heads/main/yt-thumbnail.jpg)](https://www.youtube.com/watch?v=sYQEX_knDEA)
+[Watch video on YouTube](https://www.youtube.com/watch?v=sYQEX_knDEA)
